@@ -1,8 +1,8 @@
-[https://github.com/jliese/fourier-transform/settings](Github Repo)
+[Github Repo](https://github.com/jliese/fourier-transform/settings)
 
 ## Notebook
 
-[https://nbviewer.jupyter.org/github/jliese/fourier-transform/blob/master/nonequidistantfouriertransform.ipynb](Julia Notebook mit NBViewer)
+[Julia Notebook mit NBViewer](https://nbviewer.jupyter.org/github/jliese/fourier-transform/blob/master/nonequidistantfouriertransform.ipynb)
 
 ## Libraries
 
